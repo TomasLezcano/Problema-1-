@@ -1,4 +1,7 @@
 /*
+
+Primer Intento
+
 var numero_positivo = []
 var numero_negativo = []
 
